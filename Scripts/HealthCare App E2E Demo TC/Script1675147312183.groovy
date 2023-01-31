@@ -31,8 +31,6 @@ import org.openqa.selenium.Keys as Keys
 //    'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 //
 //WebUI.click(findTestObject('Object Repository/HealthCare App E2E Demo TO/Page_CURA Healthcare Service/button_Login'))
-CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkElement'(null, null)
-
 WebUI.click(findTestObject('Object Repository/HealthCare App E2E Demo TO/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospital_readmission'))
 
 WebUI.click(findTestObject('Object Repository/HealthCare App E2E Demo TO/Page_CURA Healthcare Service/input_Medicaid_programs'))
